@@ -1,0 +1,41 @@
+/* App */
+
+.app {
+    border: 1px solid black;
+    width: 650px;
+}
+
+/* ContactForm */
+
+.contactForm {
+    width: 600px;
+    height: 50px;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+
+button {
+    float: right;
+    padding: 10px 10px;
+    margin: 5px;
+    background-color: lightblue;
+}
+
+/* Contact */
+
+.contactImage {
+    height: 100px;
+    width: 100px;
+}
+
+.contactItem {
+    background: lightgrey;
+    width: 600px;
+    border-bottom: 1px solid black;
+    padding: 5px;
+}
+
+.contactItem p {
+    float: right;
+    margin-right: 10px;
+}
